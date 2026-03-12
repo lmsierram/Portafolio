@@ -23,27 +23,27 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <p align="left" >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<h4 align="right">Diseño:</h4> 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h4 align="left">Diseño:</h4> 
 <br>
-<p align="right">Figma</p>
-<p align="right">Adobe Photoshop</p>
-<p align="right">Adobe Illustrator</p> 
-<p align="right">Canva</p>
+<p align="left">Figma</p>
+<p align="left">Adobe Photoshop</p>
+<p align="left">Adobe Illustrator</p> 
+<p align="left">Canva</p>
 <br>
-<h4 align="right">3D:</h4>
+<h4 align="left">3D:</h4>
 <br>
-<p align="right">Blender</p>
-<p align="right">Maya</p>
+<p align="left">Blender</p>
+<p align="left">Maya</p>
 <br>
-<h4 align="right">Marketing:</h4>
+<h4 align="left">Marketing:</h4>
 <br>
-<p align="right">Tik Tok Analitics</p>
-<p align="right">Estrategia de Contenido</p>
-<p align="right"> Metricas de engagement</p>
+<p align="left">Tik Tok Analitics</p>
+<p align="left">Estrategia de Contenido</p>
+<p align="left"> Metricas de engagement</p>
 <br>
 <h2 align="center">Contacto</h2>
 <br>
-<h4>Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
-<p>Email: lauramsmora07221@outlook.com</p>
+<h4 align="center">Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
+<p align="center">Email: lauramsmora07221@outlook.com</p>
  
