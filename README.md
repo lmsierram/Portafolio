@@ -23,7 +23,7 @@
 <p align="left" >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="50px align="left" />
+ <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="50px" align="left" />
 <h4 align="left">Diseño:</h4>
 <br>
 <p align="left">Figma</p>
@@ -39,7 +39,7 @@
 <p align="right">Blender</p>
 <p align="right">Maya</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="60px" />
 <h4 align="left">Marketing:</h4>
 <br>
 <p align="left">Tik Tok Analitics</p>
