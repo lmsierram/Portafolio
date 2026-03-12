@@ -23,7 +23,7 @@
 <p align="left" >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="60px align="left" />
+ <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="100px" align="left" />
 <h4 align="center">Diseño:</h4>
 <br>
 <p align="center">Figma</p>
