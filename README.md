@@ -23,7 +23,7 @@
 <p align="left" >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> 
 <h4 align="left">Diseño:</h4> 
 <br>
 <p align="left">Figma</p>
