@@ -40,6 +40,7 @@
 <p align="right">Maya</p>
 <br>
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="60px" align= "left" />
+<br>
 <h4 align="left">Marketing:</h4>
 <br>
 <p align="left">Tik Tok Analitics</p>
