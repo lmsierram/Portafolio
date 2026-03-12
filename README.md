@@ -9,6 +9,7 @@
 <p align="center">Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
 <br>
 <h2 align="center">Sobre mi</h2>
+<br>
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <p align="left">Soy estudiante de Creación Digital y me apasiona explorar cómo <br>
  el diseño, la tecnologia y la creatividad pueden unirse <br> para crear experiencias memorables.</p>
