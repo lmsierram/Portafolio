@@ -24,28 +24,28 @@
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="60px align="left" />
-<h4 align="left">Diseño:</h4>
+<h4 align="center">Diseño:</h4>
 <br>
-<p align="left">Figma</p>
-<p align="left">Adobe Photoshop</p>
-<p align="left">Adobe Illustrator</p> 
-<p align="left">Canva</p>
+<p align="center">Figma</p>
+<p align="center">Adobe Photoshop</p>
+<p align="center">Adobe Illustrator</p> 
+<p align="center">Canva</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" height="90px" align= "right" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" height="290px" align= "right" />
 <br>
 <br>
-<h4 align="right">3D:</h4>
+<h4 align="center">3D:</h4>
 <br>
-<p align="right">Blender</p>
-<p align="right">Maya</p>
+<p align="center">Blender</p>
+<p align="center">Maya</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="60px" align= "left" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="290px" align= "left" />
 <br>
-<h4 align="left">Marketing:</h4>
+<h4 align="center">Marketing:</h4>
 <br>
-<p align="left">Tik Tok Analitics</p>
-<p align="left">Estrategia de Contenido</p>
-<p align="left"> Metricas de engagement</p>
+<p align="center">Tik Tok Analitics</p>
+<p align="center">Estrategia de Contenido</p>
+<p align="center"> Metricas de engagement</p>
 <br>
 <h2 align="center">Contacto</h2>
 <br>
