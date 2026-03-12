@@ -24,30 +24,27 @@
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" align="left"/>
-
  <br>
-<h4 align="center">Diseño:</h4>
+ <div align="left">
+<h4>Diseño:</h4>
 <br>
-<p align="center">Figma</p>
-<p align="center">Adobe Photoshop</p>
-<p align="center">Adobe Illustrator</p> 
-<p align="center">Canva</p>
+<p >Figma</p>
+<p>Adobe Photoshop</p>
+<p>Adobe Illustrator</p> 
+<p>Canva</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="100px" align= "right" />
+<h4>3D:</h4>
+<br>
+<p>Blender</p>
+<p>Maya</p>
 <br>
 <br>
-<h4 align="center">3D:</h4>
+<h4> Marketing: </h4>
 <br>
-<p align="center">Blender</p>
-<p align="center">Maya</p>
-<br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="290px" align= "left" />
-<br>
-<h4 align="center"> Marketing: </h4>
-<br>
-<p align="center">Tik Tok Analitics</p>
-<p align="center">Estrategia de Contenido</p>
-<p align="center"> Metricas de engagement</p>
+<p>Tik Tok Analitics</p>
+<p>Estrategia de Contenido</p>
+<p> Metricas de engagement</p>
+ </div>
 <br>
 <h2 align="center">Contacto</h2>
 <div align="center">
