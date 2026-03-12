@@ -20,27 +20,27 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <p>Marketing digital en el tema de metricas para crecer tu negocio</p>
 <p>Modelado 3D en blender</p>
 <br>
-<p>Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
+<p >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<h4>Diseño:</h4> 
+<h4 align="right">Diseño:</h4> 
 <br>
-<p>Figma</p>
-<p>Adobe Photoshop</p>
-<p>Adobe Illustrator</p> 
-<p>Canva</p>
+<p align="right">Figma</p>
+<p align="right">Adobe Photoshop</p>
+<p align="right">Adobe Illustrator</p> 
+<p align="right">Canva</p>
 <br>
-<h4>3D:</h4>
+<h4 align="right">3D:</h4>
 <br>
-<p>Blender</p>
-<p>Maya</p>
+<p align="right">Blender</p>
+<p align="right">Maya</p>
 <br>
-<h4>Marketing:</h4>
+<h4 align="right">Marketing:</h4>
 <br>
-<p>Tik Tok Analitics</p>
-<p>Estrategia de Contenido</p>
-<p> Metricas de engagement</p>
+<p align="right">Tik Tok Analitics</p>
+<p align="right">Estrategia de Contenido</p>
+<p align="right"> Metricas de engagement</p>
 <br>
 <h2 align="center">Contacto</h2>
 <br>
