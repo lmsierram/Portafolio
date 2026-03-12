@@ -10,17 +10,17 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <br>
 <h2 align="center">Sobre mi</h2>
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
-<p>Soy estudiante de Creación Digital y me apasiona explorar cómo
+<p align="left">Soy estudiante de Creación Digital y me apasiona explorar cómo
  el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.</p>
 <br>
-<h4>Me interesa especialmente:</h4>
+<h4 align="left">Me interesa especialmente:</h4>
 <br>
-<p> El diseño de la experiencia de usuario (UX)</p>
-<p>Diseño con Photoshop, Illustrator y Canva</p>
-<p>Marketing digital en el tema de metricas para crecer tu negocio</p>
-<p>Modelado 3D en blender</p>
+<p align="left"> El diseño de la experiencia de usuario (UX)</p>
+<p align="left">Diseño con Photoshop, Illustrator y Canva</p>
+<p align="left">Marketing digital en el tema de metricas para crecer tu negocio</p>
+<p align="left">Modelado 3D en blender</p>
 <br>
-<p >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
+<p align="left" >Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
