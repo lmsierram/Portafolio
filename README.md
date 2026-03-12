@@ -4,7 +4,7 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 
 Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.
 
-#Sobre mi
+# Sobre mi
 Soy estudiante de Creación Digital y me apasiona explorar cómo el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.
 
 Me interesa especialmente:
@@ -15,7 +15,7 @@ Me interesa especialmente:
 
 Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.
 
-#Tecnologías y herramientas
+# Tecnologías y herramientas
 
 Diseño 
   Figma
@@ -31,7 +31,7 @@ Marketing
   Metricas de engagement
 
 
-#Contacto
+# Contacto
 Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:
  Email: lauramsmora07221@outlook.com
  
