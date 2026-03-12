@@ -31,7 +31,7 @@
 <p align="center">Adobe Illustrator</p> 
 <p align="center">Canva</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" height="290px" align= "right" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="100px" align= "right" />
 <br>
 <br>
 <h4 align="center">3D:</h4>
@@ -39,7 +39,7 @@
 <p align="center">Blender</p>
 <p align="center">Maya</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="290px" align= "left" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="290px" align= "left" />
 <br>
 <h4 align="center"> Marketing: </h4>
 <br>
