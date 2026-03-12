@@ -19,23 +19,23 @@ Soy estudiante de Creación Digital y me apasiona explorar cómo el diseño, la 
 
 Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.
 _________________________________________________________________________________________________________________________________________________________________________
-## Tecnologías y herramientas
+<h2>Tecnologías y herramientas</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-### Diseño: 
-####  Figma
-  Adobe Photoshop
-  Adobe Illustrator
-  Canva 
-####  3D
-  Blender
-  Maya
-#### Marketing
-  Tik Tok Analitics
-  Estrategia de Contenido
-  Metricas de engagement
+<h4>Diseño:</h4> 
+<p>Figma</p>
+<p>Adobe Photoshop</p>
+<p>Adobe Illustrator</p> 
+<p>Canva</p>
+<h4>3D</h4>
+<p>Blender</p>
+<p>Maya</p>
+<h4>Marketing</h4>
+<p>Tik Tok Analitics</p>
+<p>Estrategia de Contenido</p>
+<p> Metricas de engagement</p>
 _________________________________________________________________________________________________________________________________________________________________________
 
-## Contacto
-Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:
- Email: lauramsmora07221@outlook.com
+<h2>Contacto</h2>
+<h4>Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
+<p>Email: lauramsmora07221@outlook.com</p>
  
