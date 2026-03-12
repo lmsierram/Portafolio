@@ -1,6 +1,6 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 <h1> LAURA SIERRA-DIGITAL CREATOR </h1>
-[![MI-IMAGEN.jpg](https://i.postimg.cc/fknjjmRM/MI-IMAGEN.jpg)](https://postimg.cc/1VBqygFd)
+<img src="[https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif](https://i.postimg.cc/fknjjmRM/MI-IMAGEN.jpg)" />
 <br>
 <h2 align="center"> Portafolio </h2>
 <br>
