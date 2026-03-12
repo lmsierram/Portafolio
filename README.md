@@ -40,8 +40,7 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <p>Tik Tok Analitics</p>
 <p>Estrategia de Contenido</p>
 <p> Metricas de engagement</p>
-_________________________________________________________________________________________________________________________________________________________________________
-
+<br>
 <h2>Contacto</h2>
 <br>
 <h4>Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
