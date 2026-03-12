@@ -31,7 +31,7 @@
 <p align="left">Adobe Illustrator</p> 
 <p align="left">Canva</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" height="60px" align= "right" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" height="90px" align= "right" />
 <br>
 <br>
 <h4 align="right">3D:</h4>
