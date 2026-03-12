@@ -31,10 +31,11 @@
 <p align="left">Adobe Illustrator</p> 
 <p align="left">Canva</p>
 <br>
-<h4 align="left">3D:</h4>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" align= "right" />
+<h4 align="right">3D:</h4>
 <br>
-<p align="left">Blender</p>
-<p align="left">Maya</p>
+<p align="right">Blender</p>
+<p align="right">Maya</p>
 <br>
 <h4 align="left">Marketing:</h4>
 <br>
