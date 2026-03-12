@@ -1,4 +1,4 @@
-[![MI-IMAGEN.jpg](https://i.postimg.cc/fknjjmRM/MI-IMAGEN.jpg)](https://postimg.cc/1VBqygFd)
+[![MI-IMAGEN.jpg](https://i.postimg.cc/CLBC1Fs4/MI-IMAGEN.jpg)](https://postimg.cc/4mGH2RMK)
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 <h1> LAURA SIERRA-DIGITAL CREATOR </h1>
 <br>
