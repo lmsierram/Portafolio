@@ -39,9 +39,9 @@
 <p align="center">Blender</p>
 <p align="center">Maya</p>
 <br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="290px" align= "left" />
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="290px" align= "left" />
 <br>
-<h4 align="center">Marketing:</h4>
+<h4 align="center"> Marketing: </h4>
 <br>
 <p align="center">Tik Tok Analitics</p>
 <p align="center">Estrategia de Contenido</p>
