@@ -1,6 +1,5 @@
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 [![MI-IMAGEN.jpg](https://i.postimg.cc/fknjjmRM/MI-IMAGEN.jpg)](https://postimg.cc/1VBqygFd)
-<h1> LAURA SIERRA-DIGITAL CREATOR </h1>
+<h1 align="center"> LAURA SIERRA-DIGITAL CREATOR </h1>
 <br>
 <h2> Portafolio </h2>
 <br>
@@ -10,7 +9,9 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <p>Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
 <br>
 <h2>Sobre mi</h2>
-<p>Soy estudiante de Creación Digital y me apasiona explorar cómo el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.</p>
+<img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+<p>Soy estudiante de Creación Digital y me apasiona explorar cómo
+ el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.</p>
 <br>
 <h4>Me interesa especialmente:</h4>
 <br>
