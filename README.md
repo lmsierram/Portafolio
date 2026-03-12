@@ -11,7 +11,7 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <h2 align="center">Sobre mi</h2>
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <p align="left">Soy estudiante de Creación Digital y me apasiona explorar cómo <br>
- el diseño, la tecnologia y la creatividad <br> pueden unirse para crear experiencias memorables.</p>
+ el diseño, la tecnologia y la creatividad pueden unirse <br> para crear experiencias memorables.</p>
 <br>
 <h4 align="left">Me interesa especialmente:</h4>
 <br>
