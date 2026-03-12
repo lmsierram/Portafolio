@@ -4,8 +4,8 @@
 <br>
 <h2 align="center"> Portafolio </h2>
 <br>
-<p align="center"> Bienvenido a mi portafolio digital
-Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.</p>
+<p align="center"> Bienvenido a mi portafolio digital </p>
+<p align="center">Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.</p>
 <br>
 <p align="center">Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
 <br>
