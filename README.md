@@ -8,7 +8,7 @@
 Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.</p>
 <br>
 <p>Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
-_________________________________________________________________________________________________________________________________________________________________________
+<br>
 <h2>Sobre mi</h2>
 <p>Soy estudiante de Creación Digital y me apasiona explorar cómo el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.</p>
 <br>
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <p>Modelado 3D en blender</p>
 <br>
 <p>Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
-_________________________________________________________________________________________________________________________________________________________________________
+<br>
 <h2>Tecnologías y herramientas</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h4>Diseño:</h4> 
