@@ -1,7 +1,7 @@
 ! [Banner] (images\Aspose.Words.d6c1db6e-1831-4791-97cd-ae22bcf175f1.001.jpeg)
 ______________________________________________________________________________
-## LAURA
-DIGITAL CREATOR
+# LAURA SIERRA
+## DIGITAL CREATOR
 _______________________________________________________________________________
 # Portafolio
 Bienvenido a mi portafolio digital
