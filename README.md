@@ -3,10 +3,10 @@
 <br>
 <h2 align="center"> Portafolio </h2>
 <br>
-<p> Bienvenido a mi portafolio digital
+<p align="center"> Bienvenido a mi portafolio digital
 Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.</p>
 <br>
-<p>Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
+<p align="center">Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
 <br>
 <h2 align="center">Sobre mi</h2>
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
