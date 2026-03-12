@@ -1,6 +1,7 @@
 [![MI-IMAGEN.jpg](https://i.postimg.cc/fknjjmRM/MI-IMAGEN.jpg)](https://postimg.cc/1VBqygFd)
-# LAURA SIERRA
-## DIGITAL CREATOR
+# LAURA SIERRA-DIGITAL CREATOR
+
+
 ## Portafolio
 Bienvenido a mi portafolio digital
 Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.
