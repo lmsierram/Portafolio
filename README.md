@@ -1,12 +1,12 @@
 [![MI-IMAGEN.jpg](https://i.postimg.cc/fknjjmRM/MI-IMAGEN.jpg)](https://postimg.cc/1VBqygFd)
-# LAURA SIERRA-DIGITAL CREATOR
+<h1> LAURA SIERRA-DIGITAL CREATOR </h1>
 
 
-## Portafolio
-Bienvenido a mi portafolio digital
+<h2> Portafolio </h2>
+<p> Bienvenido a mi portafolio digital
 Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.
 
-Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.
+Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
 _________________________________________________________________________________________________________________________________________________________________________
 ## Sobre mi
 Soy estudiante de Creación Digital y me apasiona explorar cómo el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.
