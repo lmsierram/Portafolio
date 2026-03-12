@@ -50,6 +50,8 @@
 <br>
 <h2 align="center">Contacto</h2>
 <br>
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+<br>
 <h4 align="center">Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
 <p align="center">Email: lauramsmora07221@outlook.com</p>
  
