@@ -7,6 +7,7 @@
 Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.
 
 Aquí encontrarás algunos de mis trabajos UX, desarrollo web, modelado 3D y marketing digital.</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 _________________________________________________________________________________________________________________________________________________________________________
 ## Sobre mi
 Soy estudiante de Creación Digital y me apasiona explorar cómo el diseño, la tecnologia y la creatividad pueden unirse para crear experiencias memorables.
