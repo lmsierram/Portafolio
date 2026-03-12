@@ -49,8 +49,10 @@
 <p align="center"> Metricas de engagement</p>
 <br>
 <h2 align="center">Contacto</h2>
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 <br>
-<h4 align="center">Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
-<p align="center">Email: lauramsmora07221@outlook.com</p>
+<h4>Si quieres colaborar, trabajar juntos o simplemente ver más proyectos:</h4>
+<p>Email: lauramsmora07221@outlook.com</p>
+</div>
  
