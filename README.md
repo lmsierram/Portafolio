@@ -23,7 +23,7 @@ Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia
 <p>Siempre estoy en la exploracion de nuevas herramientas y formas de contar historias a través del diseño digital.</p>
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100"/>
 <h4>Diseño:</h4> 
 <br>
 <p>Figma</p>
