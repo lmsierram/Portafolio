@@ -1,3 +1,8 @@
+! [Banner] (images\Aspose.Words.d6c1db6e-1831-4791-97cd-ae22bcf175f1.001.jpeg)
+______________________________________________________________________________
+# LAURA
+DIGITAL CREATOR
+_______________________________________________________________________________
 # Portafolio
 Bienvenido a mi portafolio digital
 Soy una creadora digital enfocada en combinar diseño, tecnología y experiencia de usuario para construir proyectos visuales e interactivos.
