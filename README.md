@@ -24,7 +24,6 @@
 <br>
 <h2 align="center">Tecnologías y herramientas</h2>
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="60px align="left" />
- <br>
 <h4 align="left">Diseño:</h4>
 <br>
 <p align="left">Figma</p>
