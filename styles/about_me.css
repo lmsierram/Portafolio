@@ -1,0 +1,55 @@
+.about{
+background:#7783b8;
+color:white;
+padding:80px 0;
+}
+
+.about-grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:80px;
+align-items:center;
+}
+
+.about-text p{
+margin-top:20px;
+max-width:500px;
+}
+
+.stats{
+display:flex;
+gap:60px;
+margin-top:40px;
+}
+
+.stats h3{
+font-size:40px;
+color:#ffd85d;
+}
+
+.skills h2{
+margin-bottom:30px;
+}
+
+.skill{
+margin-bottom:20px;
+}
+
+.skill p{
+display:flex;
+justify-content:space-between;
+margin-bottom:5px;
+}
+
+.bar{
+height:8px;
+background:#a4b4ff;
+border-radius:10px;
+overflow:hidden;
+}
+
+.bar span{
+display:block;
+height:100%;
+background:#ffd85d;
+}
